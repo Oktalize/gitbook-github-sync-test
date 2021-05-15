@@ -14,6 +14,8 @@ $ give me super-powers
 
 Once you're strong enough, save the world:
 
+This is a test commit.
+
 {% code title="hello.sh" %}
 ```bash
 # Ain't no code for that yet, sorry
